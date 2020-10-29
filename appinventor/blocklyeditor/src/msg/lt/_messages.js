@@ -229,7 +229,7 @@ Blockly.Msg.lt.switch_language_to_lithuanian = {
     Blockly.Msg.LANG_CONTROLS_DO_THEN_RETURN_INPUT_DO = 'atlikti';
     Blockly.Msg.LANG_CONTROLS_DO_THEN_RETURN_INPUT_RETURN = 'rezultatas';
     Blockly.Msg.LANG_CONTROLS_DO_THEN_RETURN_TOOLTIP = 'Veikia blokus, esančius „atlikti“, ir grąžina sakinį. Naudinga, jei prieš pradedant grąžinti reikšmę į kintamąjį reikia atlikti procedūrą.';
-    Blockly.Msg.LANG_CONTROLS_DO_THEN_RETURN_COLLAPSED_TEXT = 'atlikti/rezultatas';
+    Blockly.Msg.LANG_CONTROLS_DO_THEN_RETURN_COLLAPSED_TEXT = 'atlikti / rezultatas';
     Blockly.Msg.LANG_CONTROLS_DO_THEN_RETURN_TITLE = 'atlikti rezultatą';
 
     Blockly.Msg.LANG_CONTROLS_EVAL_BUT_IGNORE_TITLE = 'įvertinti, bet nepaisyti rezultato';
@@ -1055,7 +1055,7 @@ Blockly.Msg.lt.switch_language_to_lithuanian = {
     Blockly.Msg.LANG_PROCEDURES_DOTHENRETURN_DO = 'atlikti';
     Blockly.Msg.LANG_PROCEDURES_DOTHENRETURN_RETURN = 'rezultatas';
     Blockly.Msg.LANG_PROCEDURES_DOTHENRETURN_TOOLTIP = 'Veikia blokai, esantys „atlikti“, ir grąžina sakinį. Naudinga, jei prieš pradedant grąžinti reikšmę į kintamąjį reikia atlikti procedūrą.';
-    Blockly.Msg.LANG_PROCEDURES_DOTHENRETURN_COLLAPSED_TEXT = 'atlikti/rezultatas';
+    Blockly.Msg.LANG_PROCEDURES_DOTHENRETURN_COLLAPSED_TEXT = 'atlikti / rezultatas';
 
     Blockly.Msg.LANG_PROCEDURES_DEFRETURN_HELPURL = '/reference/blocks/procedures.html#return';
     Blockly.Msg.LANG_PROCEDURES_DEFRETURN_DEFINE = 'į';
