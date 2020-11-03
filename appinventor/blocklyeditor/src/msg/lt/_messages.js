@@ -1530,7 +1530,7 @@ Blockly.Msg.lt.switch_language_to_lithuanian = {
     Blockly.Msg.WARNING_DELETE_X_BLOCKS = "Ar tikrai norite ištrinti visus %1 blokus (-ų)?";
 
 // Blocklyeditor.js
-    Blockly.Msg.GENERATE_YAIL = "Generuoti YAIL";
+    Blockly.Msg.GENERATE_YAIL = "Generuoti tarpinę kalbą YAIL";
     Blockly.Msg.DO_IT = "Atlikti tai";
     Blockly.Msg.DO_IT_DISCONNECTED = 'Atlikti tai („AI2 Companion“ neprisijungęs)';
     Blockly.Msg.CLEAR_DO_IT_ERROR = "Išvalyti klaidą";
